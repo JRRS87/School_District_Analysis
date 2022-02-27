@@ -1,0 +1,2 @@
+# Determine if there are any missing values in the school data.
+school_data_df.count()
